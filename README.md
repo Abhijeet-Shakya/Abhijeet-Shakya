@@ -1,6 +1,6 @@
-### Hi👋, I'm Jeet.
+### Hi👋, I'm Abhijeet.
 
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Java & DevOps.
 
 
 <!--
