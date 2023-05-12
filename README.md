@@ -1,4 +1,4 @@
-### Hi👋, I'm Abhijeet Shakya.
+### Hi👋, I'm Abhijeet.
 
 - 🌱 I’m currently learning Java.
 
